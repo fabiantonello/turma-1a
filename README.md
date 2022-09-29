@@ -1,1 +1,2 @@
-turma-1a-fabiana
+# turma-1a
+arquivos aula pensamento computacional
